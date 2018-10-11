@@ -1,0 +1,11 @@
+<h1>Github Project Stars</h1>
+<table>
+  <% @results.each do |item| %>
+  <tr>
+    <td><%= item.name %></td>
+    <td><%= item.url %></td>
+    <td><%= item.owner %></td>
+    <td><%= item.stars %></td>
+  </tr>
+  <% end %>
+</table>
