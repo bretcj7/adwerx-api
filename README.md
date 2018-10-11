@@ -30,6 +30,7 @@ Getting Started
 ---------------
 Download the respository
 - bundle install
+- rake db:migrate
 - rails s
 
 Navigate to localhost:3000
