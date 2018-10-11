@@ -29,8 +29,8 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 Getting Started
 ---------------
 Download the respository
->bundle install
->rails s
+- bundle install
+- rails s
 
 Navigate to localhost:3000
 
